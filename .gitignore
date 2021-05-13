@@ -1,8 +1,5 @@
 .ipynb_checkpoints/
-*.csv
-*.txt
 *.pyc
-*.pt
 *.npz
 *.json
 *.npy
