@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.csv
+*.txt
+*.pyc
+checkpoints/
+experiments/
+benchmarks/
