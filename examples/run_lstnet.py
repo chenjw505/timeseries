@@ -1,8 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-configs/xxx.gin 用于实验环境下搜索最优参数
-examples/args  用于直接跑最优参数
-
 @author: chenjw
 @time: 2021/5/6 10:32
 """
